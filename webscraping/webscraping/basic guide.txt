@@ -1,8 +1,0 @@
-web scraping using scrapy framework
-
-1. pip install scrapy then scrapy startproject projectname
-2. scrapy shell (in terminal)
-3. fetch('url')
-4. response
-5. response.css('div.class_name')
-6. var = response.css("")
