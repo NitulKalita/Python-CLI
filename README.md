@@ -9,3 +9,4 @@
 | Generate QR Code |[Code](https://github.com/NitulKalita/Python-CLI/blob/master/qrcodepy.py)|
 | Text to Handwriting |[Code](https://github.com/NitulKalita/Python-CLI/blob/master/texttohandwritten.py)|
 | URL Loading time |[Code](https://github.com/NitulKalita/Python-CLI/blob/master/urlloadingtime.py)|
+| URL Shortener |[Code](https://github.com/NitulKalita/Python-CLI/blob/master/URL%20Shortener.py)|
