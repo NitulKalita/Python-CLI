@@ -11,3 +11,5 @@
 | URL Loading time |[Code](https://github.com/NitulKalita/Python-CLI/blob/master/urlloadingtime.py)|
 | URL Shortener |[Code](https://github.com/NitulKalita/Python-CLI/blob/master/URL%20Shortener.py)|
 | Test Typing Speed |[Code](https://github.com/NitulKalita/Python-CLI/blob/master/typingspeed.py)|
+| Email Slicer |[Code](https://github.com/NitulKalita/Python-CLI/blob/master/emailslicer.py)|
+| Print Emoji |[Code](https://github.com/NitulKalita/Python-CLI/blob/master/print_emoji.py)|
