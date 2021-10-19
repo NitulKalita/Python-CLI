@@ -13,3 +13,4 @@
 | Test Typing Speed |[Code](https://github.com/NitulKalita/Python-CLI/blob/master/typingspeed.py)|
 | Email Slicer |[Code](https://github.com/NitulKalita/Python-CLI/blob/master/emailslicer.py)|
 | Print Emoji |[Code](https://github.com/NitulKalita/Python-CLI/blob/master/print_emoji.py)|
+| Donut |[Code](https://github.com/NitulKalita/Python-CLI/blob/master/Donut.py)|
