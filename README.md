@@ -14,3 +14,4 @@
 | Email Slicer |[Code](https://github.com/NitulKalita/Python-CLI/blob/master/emailslicer.py)|
 | Print Emoji |[Code](https://github.com/NitulKalita/Python-CLI/blob/master/print_emoji.py)|
 | Donut |[Code](https://github.com/NitulKalita/Python-CLI/blob/master/Donut.py)|
+| Image to ASCII |[Code](https://github.com/NitulKalita/Python-CLI/blob/master/Image%20to%20ASCII%20text.py)|
