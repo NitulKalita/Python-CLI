@@ -16,3 +16,4 @@
 | Donut |[Code](https://github.com/NitulKalita/Python-CLI/blob/master/Donut.py)|
 | Image to ASCII |[Code](https://github.com/NitulKalita/Python-CLI/blob/master/Image%20to%20ASCII%20text.py)|
 | Mandelbrot Set |[Code](https://github.com/NitulKalita/Python-CLI/blob/master/MandelBrotSet.py)|
+| Logistic Map Zoom |[Code](https://github.com/NitulKalita/Python-CLI/blob/master/Logistic%20Map%20Zoom.py)|
